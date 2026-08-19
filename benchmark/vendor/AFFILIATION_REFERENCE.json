@@ -1,0 +1,13 @@
+{
+  "name": "affiliation-metrics-py",
+  "paper": "Local Evaluation of Time Series Anomaly Detection Algorithms",
+  "authors": "Huet et al.",
+  "venue": "KDD 2022",
+  "repository": "https://github.com/ahstat/affiliation-metrics-py",
+  "commit": "8d8449858096bbade6a6e70848d05c9cc9b846fe",
+  "tree": "2973fb6056a093a5ed0cc5190794b438f16c0321",
+  "license": "BSD-3-Clause",
+  "metrics_py_sha256": "c68ced63654f4422e912163a51880f12a78a8a4cd5f22fc39683ee655208cfe0",
+  "generics_py_sha256": "70142fb2fe402d9e105173f67e3ed02c4a2f46e535660c0b276955a37e2cdabc",
+  "usage": "read-only author reference; imported directly without installing or changing the chuangxin core stack"
+}
